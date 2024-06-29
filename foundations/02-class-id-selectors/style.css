@@ -1,0 +1,17 @@
+.odd{ /**I don't seem to have a Dejavu Sans font**/
+    font-family:verdana, sans-serif;
+    background-color: pink;
+}.odd.odder{
+    font-size:24px;}
+.even{
+    font-family:impact, sans-serif;
+}
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size:24px;
+}
+#two{
+    color: blue;
+    font-size:36px;    
+}
